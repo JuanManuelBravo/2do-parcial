@@ -1,0 +1,182 @@
+{
+    "Charmander": {
+        "en": "Charmander",
+        "it": "Charmander",
+        "fr": "Salamèche",
+        "de": "Glumanda"
+    },
+    "Abra": {
+        "en": "Abra",
+        "it": "Abra",
+        "fr": "Abra",
+        "de": "Abra"
+    },
+    "Bulbasur": {
+        "en": "Bulbasaur",
+        "it": "Bulbasaur",
+        "fr": "Bulbizarre",
+        "de": "Bisasam"
+    },
+    "Gastly": {
+        "en": "Gastly",
+        "it": "Gastly",
+        "fr": "Fantominus",
+        "de": "Nebulak"
+    },
+    "Gengar": {
+        "en": "Gengar",
+        "it": "Gengar",
+        "fr": "Ectoplasma",
+        "de": "Gengar"
+    },
+    "Hitmonchan": {
+        "en": "Hitmonchan",
+        "it": "Hitmonchan",
+        "fr": "Tygnon",
+        "de": "Nockchan"
+    },
+    "Pikachu": {
+        "en": "Pikachu",
+        "it": "Pikachu",
+        "fr": "Pikachu",
+        "de": "Pikachu"
+    },
+    "Pidgey": {
+        "en": "Pidgey",
+        "it": "Pidgey",
+        "fr": "Roucool",
+        "de": "Taubsi"
+    },
+    "Voltorb": {
+        "en": "Voltorb",
+        "it": "Voltorb",
+        "fr": "Voltorbe",
+        "de": "Voltobal"
+    },
+    "Vulpix": {
+        "en": "Vulpix",
+        "it": "Vulpix",
+        "fr": "Goupix",
+        "de": "Vulpix"
+    },
+    "Celebi": {
+        "en": "Celebi",
+        "it": "Celebi",
+        "fr": "Celebi",
+        "de": "Celebi"
+    },
+    "Chikorita": {
+        "en": "Chikorita",
+        "it": "Chikorita",
+        "fr": "Germignon",
+        "de": "Endivie"
+    },
+    "Cyndaquil": {
+        "en": "Cyndaquil",
+        "it": "Cyndaquil",
+        "fr": "Héricendre",
+        "de": "Feurigel"
+    },
+    "Entei": {
+        "en": "Entei",
+        "it": "Entei",
+        "fr": "Entei",
+        "de": "Entei"
+    },
+    "Marill": {
+        "en": "Marill",
+        "it": "Marill",
+        "fr": "Marill",
+        "de": "Marill"
+    },
+    "Pichu": {
+        "en": "Pichu",
+        "it": "Pichu",
+        "fr": "Pichu",
+        "de": "Pichu"
+    },
+    "Scizor": {
+        "en": "Scizor",
+        "it": "Scizor",
+        "fr": "Cizayox",
+        "de": "Scherox"
+    },
+    "Skarmory": {
+        "en": "Skarmory",
+        "it": "Skarmory",
+        "fr": "Airmure",
+        "de": "Panzaeron"
+    },
+    "Togepi": {
+        "en": "Togepi",
+        "it": "Togepi",
+        "fr": "Togepi",
+        "de": "Togetic"
+    },
+    "Totodile": {
+        "en": "Totodile",
+        "it": "Totodile",
+        "fr": "Kaiminus",
+        "de": "Karnimani"
+    },
+    "Absol": {
+        "en": "Absol",
+        "it": "Absol",
+        "fr": "Absol",
+        "de": "Absol"
+    },
+    "Bagon": {
+        "en": "Bagon",
+        "it": "Bagon",
+        "fr": "Draby",
+        "de": "Kindwurm"
+    },
+    "Makuhita": {
+        "en": "Makuhita",
+        "it": "Makuhita",
+        "fr": "Makuhita",
+        "de": "Makuhita"
+    },
+    "Poochyena": {
+        "en": "Poochyena",
+        "it": "Poochyena",
+        "fr": "Medhyèna",
+        "de": "Fiffyen"
+    },
+    "Ralts": {
+        "en": "Ralts",
+        "it": "Ralts",
+        "fr": "Tarsal",
+        "de": "Trasla"
+    },
+    "Sableye": {
+        "en": "Sableye",
+        "it": "Sableye",
+        "fr": "Ténéfix",
+        "de": "Zobiris"
+    },
+    "Slaking": {
+        "en": "Slaking",
+        "it": "Slaking",
+        "fr": "Monaflèmit",
+        "de": "Letarking"
+    },
+    "Torchic": {
+        "en": "Torchic",
+        "it": "Torchic",
+        "fr": "Poussifeu",
+        "de": "Flemmli"
+    },
+    "Torkoal": {
+        "en": "Torkoal",
+        "it": "Torkoal",
+        "fr": "Chartor",
+        "de": "Qurtel"
+    },
+    "Treecko": {
+        "en": "Treecko",
+        "it": "Treecko",
+        "fr": "Arcko",
+        "de": "Geckarbor"
+    }
+}
